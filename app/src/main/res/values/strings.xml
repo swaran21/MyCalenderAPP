@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCalender APP</string>
+    <string name="go_to_date">Go to Date</string>
+    <string name="enter_date_dd_mm_yyyy">Enter date (dd/MM/yyyy)</string>
+</resources>
